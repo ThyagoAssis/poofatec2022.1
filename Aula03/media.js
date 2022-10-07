@@ -5,6 +5,7 @@ class MediaAluno{
         this.nota3 = n3;
         this.nota4 = n4;
         this._resultado;
+        //this.media();
     }
 
     media(){

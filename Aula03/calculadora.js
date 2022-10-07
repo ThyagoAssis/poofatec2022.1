@@ -5,6 +5,7 @@ class Calculadora{
         this.valorDois = vDois;
         this._resultado;
     }
+
     //OBS: Todo método deve retornar o resultado de atividade
     soma(){
         this._resultado = parseFloat(this.valorUm) + parseFloat(this.valorDois);
